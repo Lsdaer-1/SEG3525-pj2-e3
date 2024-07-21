@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "//Lsdaer-1.github.io/SEG3525-pj2-e3/static/css/main.4308f306.css",
-    "main.js": "//Lsdaer-1.github.io/SEG3525-pj2-e3/static/js/main.42c6c673.js",
-    "static/media/p3.webp": "//Lsdaer-1.github.io/SEG3525-pj2-e3/static/media/p3.8f426c1cbfc7e8b6161c.webp",
-    "static/media/p2.webp": "//Lsdaer-1.github.io/SEG3525-pj2-e3/static/media/p2.c63695e419419a69298d.webp",
-    "static/media/p1.webp": "//Lsdaer-1.github.io/SEG3525-pj2-e3/static/media/p1.548a0bca3fd0dfd33a5f.webp",
-    "static/media/p5.webp": "//Lsdaer-1.github.io/SEG3525-pj2-e3/static/media/p5.cfe01d91259b1d517142.webp",
-    "static/media/p9.webp": "//Lsdaer-1.github.io/SEG3525-pj2-e3/static/media/p9.7a38066466a90dabb084.webp",
-    "static/media/p4.webp": "//Lsdaer-1.github.io/SEG3525-pj2-e3/static/media/p4.b2816de4cd258c775e80.webp",
-    "static/media/p6.webp": "//Lsdaer-1.github.io/SEG3525-pj2-e3/static/media/p6.2ccd7daad0bd728f292d.webp",
-    "static/media/p7.jpg": "//Lsdaer-1.github.io/SEG3525-pj2-e3/static/media/p7.edf671771c948a76fe4e.jpg",
-    "static/media/p8.jpg": "//Lsdaer-1.github.io/SEG3525-pj2-e3/static/media/p8.e72e1711281d49623c95.jpg",
-    "index.html": "//Lsdaer-1.github.io/SEG3525-pj2-e3/index.html",
-    "main.4308f306.css.map": "//Lsdaer-1.github.io/SEG3525-pj2-e3/static/css/main.4308f306.css.map",
-    "main.42c6c673.js.map": "//Lsdaer-1.github.io/SEG3525-pj2-e3/static/js/main.42c6c673.js.map"
+    "main.css": "/SEG3525pj2e5/static/css/main.b4523552.css",
+    "main.js": "/SEG3525pj2e5/static/js/main.446c6517.js",
+    "static/media/p3.webp": "/SEG3525pj2e5/static/media/p3.8f426c1cbfc7e8b6161c.webp",
+    "static/media/p2.webp": "/SEG3525pj2e5/static/media/p2.c63695e419419a69298d.webp",
+    "static/media/p1.webp": "/SEG3525pj2e5/static/media/p1.548a0bca3fd0dfd33a5f.webp",
+    "static/media/p5.webp": "/SEG3525pj2e5/static/media/p5.cfe01d91259b1d517142.webp",
+    "static/media/p9.webp": "/SEG3525pj2e5/static/media/p9.7a38066466a90dabb084.webp",
+    "static/media/p4.webp": "/SEG3525pj2e5/static/media/p4.b2816de4cd258c775e80.webp",
+    "static/media/p6.webp": "/SEG3525pj2e5/static/media/p6.2ccd7daad0bd728f292d.webp",
+    "static/media/p7.jpg": "/SEG3525pj2e5/static/media/p7.edf671771c948a76fe4e.jpg",
+    "static/media/p8.jpg": "/SEG3525pj2e5/static/media/p8.e72e1711281d49623c95.jpg",
+    "index.html": "/SEG3525pj2e5/index.html",
+    "main.b4523552.css.map": "/SEG3525pj2e5/static/css/main.b4523552.css.map",
+    "main.446c6517.js.map": "/SEG3525pj2e5/static/js/main.446c6517.js.map"
   },
   "entrypoints": [
-    "static/css/main.4308f306.css",
-    "static/js/main.42c6c673.js"
+    "static/css/main.b4523552.css",
+    "static/js/main.446c6517.js"
   ]
 }
